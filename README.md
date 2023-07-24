@@ -17,9 +17,11 @@
 2. Then you should use "cd" to change directory to "note-app-console" folder.
 
 3. Finally, you need to run the following "npm install" command, this command will install all the necessary dependencies for the application.
+
 ![Command npm install image](images_app/npm_install.png)
 
-4. You can see in the folder a new "node_modules" folder, these are all the modules needed for the application.
+5. You can see in the folder a new "node_modules" folder, these are all the modules needed for the application.
+   
 ![Image folder node_modules](images_app/node_modules.png)
 
 ## How use the app
