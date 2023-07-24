@@ -13,7 +13,7 @@ export async function createNote(note){
     }
 
     return new Promise( (resolve, reject) => {
-        resolve("✔ Se ha creado la nota correctamente.");
+        resolve("✔ The note has been created successfully.");
     } );
 
 }
