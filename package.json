@@ -1,0 +1,22 @@
+{
+  "name": "note-app-console",
+  "version": "1.0.0",
+  "description": "This is a application for make notes from console with nodeJS.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notes",
+    "node",
+    "app",
+    "console"
+  ],
+  "author": "Alexis Roman Valente Cuevas",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "3.0.0",
+    "dotenv": "16.3.1"
+  }
+}
