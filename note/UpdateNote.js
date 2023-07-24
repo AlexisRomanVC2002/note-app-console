@@ -17,7 +17,7 @@ export async function updateNote(arrayOldNotes, newNote, lineNoteToUpdate){
     }
 
     return new Promise( (resolve, reject) => {
-        resolve("✔ Se ha actualizado la nota correctamente.");
+        resolve("✔ The note has been updated successfully.");
     } );
 
 }
